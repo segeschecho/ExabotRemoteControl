@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exabot Remote Control</string>
+    <string name="main_menu_item1">Configuration</string>
+    <string name="menu_ok">Ok</string>
+    <string name="configuration_view_title">General Configurations</string>
+    <string name="configuration_view_ip_exabot">IP Exabot</string>
+    <string name="configuration_view_ip_exabot_hint">IP Host</string>
+    <string name="exabotRemoteControlConfigFileName">exabotRemoteControlConfig</string>
+    <string name="exabotRemoteControlConfigIpFieldKey">iphost</string>
+</resources>
